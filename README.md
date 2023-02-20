@@ -1,3 +1,5 @@
-Here are some scripts for genome paper.
+Here we stored the code used in the genome assembly, annotation and analysis of two species of parasitising wasps. A related article has been submitted to the journal molecular ecology resources.
 
-Jing-Ge Kuang, kjg1106@163.cn, let me know if you have any question.
+Authorship: Dr. Jing-Ge Kuang, kjg1106@163.cn.
+
+Please let me know if you have any question.
